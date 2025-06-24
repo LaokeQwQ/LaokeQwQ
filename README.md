@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 - 📫 Email at: coqimax@gmail.com
 - 😄 Now Developing - shelter.wiki for my favourite artist Porter Robinson :D
 
+### My Stream Media / Social Media
+- 📺Bilibili:DJ_Crispy牢可
+- ☁SoundCloud:DJ_Cr1spy
+
 ![](https://github-readme-stats.vercel.app/api?username=LaokeQwQ&show_icons=true&theme=transparent)
 
 ![:name](https://count.getloli.com/@LaokeQwQ)
-
-### My Stream Media / Social Media
-📺Bilibili:DJ_Crispy牢可
-☁SoundCloud:DJ_Cr1spy
 
