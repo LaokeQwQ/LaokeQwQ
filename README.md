@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-stats.vercel.app/api?username=LaokeQwQ&show_icons=true&theme=transparent)
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/LaokeQwQ/count.svg) visitor XD
+![:name](https://count.getloli.com/@LaokeQwQ)
 
 ### My Stream Media / Social Media
 📺Bilibili:DJ_Crispy牢可
