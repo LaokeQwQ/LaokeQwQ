@@ -12,7 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there 👋,I'm Laoke.Also as known as DJ_Cr1spy.
+### Hi there 👋, I'm Laoke. Also known as DJ_Cr1spy.
+
+## 👤 Who Am I? / 你是谁？
+
+I'm **Laoke (牢可)**, also known as **DJ_Cr1spy** - a passionate DJ and developer from China. I'm currently a high school student who loves music production, coding, and everything tech-related.
 
 - 📕 I’m currently studying on my high school.
 - 🌱 I’m currently learning Everything I like & Keep work hard💪.
