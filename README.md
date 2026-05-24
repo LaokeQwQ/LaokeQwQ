@@ -26,7 +26,21 @@ Here are some ideas to get you started:
 - 📺Bilibili:DJ_Crispy牢可
 - ☁SoundCloud:DJ_Cr1spy
 
-![](https://github-readme-stats.vercel.app/api?username=LaokeQwQ&show_icons=true&theme=transparent)
+## 📈 stats
 
-![:name](https://count.getloli.com/@LaokeQwQ)
+<div width=100% align=center>
+<img alt="metrics" src="./github-metrics.svg" width="55%">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=LaokeQwQ&theme=github_dark&layout=compact">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=LaokeQwQ&theme=default&layout=compact">
+  <img alt="langs" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=LaokeQwQ&theme=github_dark&layout=compact" width="40%">
+</picture>
+</div>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<h3>visitor count：</h3>
+<img src="https://count.getloli.com/get/@LaokeQwQ?theme=moebooru" alt="visitor count">
 
