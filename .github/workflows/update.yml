@@ -1,0 +1,33 @@
+name: Update stuff
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    name: Update
+    runs-on: ubuntu-latest
+    env:
+      WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+    steps:
+      - name: Update Waka-Readme
+        if: ${{ env.WAKATIME_API_KEY != '' }}
+        uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          BLOCKS: ░▒▓█
+
+      - name: GitHub General Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics.svg
+          token: ${{ secrets.METRICS_TOKEN || github.token }}
+          user: LaokeQwQ
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Shanghai
